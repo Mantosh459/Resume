@@ -1,0 +1,96 @@
+* {
+padding: 0.8%;
+margin: 0;
+box-sizing: border-box;
+}
+body {
+  align-items: centre;
+  background-color: rgb(161, 255, 224);
+
+}
+
+.main {
+  display: flex;
+  position: relative;
+  padding: 10px;
+}
+
+.left img {
+  position: relative;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin-left: 100px;
+
+}
+.left {
+  width: 40%;
+  padding: 40px;
+  background-color:rgb(10, 10, 67);
+  color: white;
+}
+.lang-main {
+  padding: 15px;
+}
+.lang {
+  position: relative;
+  width: 80%;
+  background: rgb(250, 250, 250);
+}
+.lang div {
+  width: 100%;
+  background: rgb(28, 124, 227);
+}
+.left p {
+  text-align: center;
+  color: beige;
+}
+.left h3 {
+padding: 10px;
+
+}
+.left h2 {
+  text-align: center;
+}
+.fullstack {
+  text-align: center;
+  border-bottom: 1px solid;
+  border-color: aliceblue;
+}
+.left li {
+  margin-left: 30px;
+  color: beige;
+}
+
+.right {
+  width: 70%;
+  padding: 30px;
+  background-color: beige;
+  color: rgb(4, 4, 56);
+
+}
+.right h3{
+ font-size: x-large;
+}
+.right h5 {
+  padding: 12px;
+}
+.right p {
+  color: rgb(64, 5, 5);
+}
+
+.percent {
+  position: relative;
+  width: 80%;
+  background: rgb(250, 250, 250);
+}
+
+.percent div {
+  position: relative;
+  background: rgb(36, 155, 214);
+  height: 100%;
+  top: 0;
+  left: 0;
+
+}
+
